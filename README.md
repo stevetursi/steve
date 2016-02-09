@@ -20,10 +20,13 @@
 * 30 Free Programmign eBooks http://www.citizen428.net/blog/2010/08/12/30-free-programming-ebooks/
 * GoogleCareers Tech Devlopment Guide https://www.google.com/about/careers/students/guide-to-technical-development.html
 * SublimeText Selection http://www.sublimetext.com/docs/selection
+* Put or POST in REST https://jcalcote.wordpress.com/2008/10/16/put-or-post-the-rest-of-the-story/
 
 ## Java & Spring
 
 * Java doesn't suck, you're just using it wrong http://www.jamesward.com/2014/12/03/java-doesnt-suck-youre-just-using-it-wrong
+* Opinionated Guede to Modern Java http://blog.paralleluniverse.co/2014/05/01/modern-java/
+* Netflix RxJava http://techblog.netflix.com/2013/02/rxjava-netflix-api.html
 * Josh Long Spring Boot talk https://www.youtube.com/watch?v=sbPSjI4tt10
 * Annotated Spring http://www.annotatedspring.com/
 
@@ -62,6 +65,7 @@
 * CLI Crash Course http://learncodethehardway.org/cli/book/cli-crash-course.html
 * Handbook of Text manipulation http://www.ibm.com/developerworks/aix/library/au-unixtext/index.html
 * Command Line Fu http://www.commandlinefu.com/commands/browse/sort-by-votes
+* SSH Kung Fu http://blog.tjll.net/ssh-kung-fu/
 
 ## Misc
 
@@ -87,4 +91,4 @@
 
 ## Culture
 
-* Larman's Laws of Organizational Behavoir
+* Larman's Laws of Organizational Behavoir http://www.craiglarman.com/wiki/index.php?title=Larman%27s_Laws_of_Organizational_Behavior
