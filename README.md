@@ -2,7 +2,7 @@
 
 ## Cheat Sheets
 
-* Java 8 Streams http://zeroturnaround.com/wp-content/uploads/2016/01/Java-8-Streams-cheat-sheet.png
+* Java 8 Streams http://paniov.blogspot.com/2016/01/java-java-8-streams-cheat-sheet.html
 * IntelliJ Keyboard Shortcuts https://www.jetbrains.com/idea/help/keyboard-shortcuts-you-cannot-miss.html
 * Hibernate Mapping http://ndpsoftware.com/HibernateMappingCheatSheet.html
 * Big O Notation http://bigocheatsheet.com/
