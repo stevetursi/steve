@@ -87,8 +87,8 @@
 * Another Sublime Cheat Sheet https://forum.sublimetext.com/t/my-sublime-text-windows-cheat-sheet/8411
 * Chrome dns chrome://net-internals/#dns
 * Chrome Application Cache chrome://appcache-internals/
-* Rands - The Builder's High
 
 ## Culture
 
 * Larman's Laws of Organizational Behavoir http://www.craiglarman.com/wiki/index.php?title=Larman%27s_Laws_of_Organizational_Behavior
+* Rands - The Builder's High http://randsinrepose.com/archives/the-builders-high/
