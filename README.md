@@ -75,13 +75,16 @@
 * Advanced Data Structures http://courses.csail.mit.edu/6.851/spring12/
 * Stanford Algorithm Design and Analysis Course https://www.coursera.org/course/algo
 * "Some things I've learnt about programming" http://blog.jgc.org/2012/07/some-things-ive-learnt-about.html
-
-
-#### Meta
-
+* Analyze a User Agent String http://useragentstring.com/
+* All sorts of network tools in a browser http://www.viewdns.info/
 * Markdown Cheatsheet https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 * Git Immersion http://gitimmersion.com/
 * SublimeText Cheat Sheet http://www.cheatography.com/njovin/cheat-sheets/sublime-text-2-windows/
 * Another Sublime Cheat Sheet https://forum.sublimetext.com/t/my-sublime-text-windows-cheat-sheet/8411
+* Chrome dns chrome://net-internals/#dns
+* Chrome Application Cache chrome://appcache-internals/
+* Rands - The Builder's High
 
+## Culture
 
+* Larman's Laws of Organizational Behavoir
