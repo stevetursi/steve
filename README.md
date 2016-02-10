@@ -6,7 +6,7 @@
 * IntelliJ Keyboard Shortcuts https://www.jetbrains.com/idea/help/keyboard-shortcuts-you-cannot-miss.html
 * Hibernate Mapping http://ndpsoftware.com/HibernateMappingCheatSheet.html
 * Big O Notation http://bigocheatsheet.com/
-* RegEx http://tinyurl.com/jebwhox http://www.cheatography.com/davechild/cheat-sheets/regular-expressions/ http://regexcheatsheet.com/
+* RegEx http://tinyurl.com/jebwhox - http://www.cheatography.com/davechild/cheat-sheets/regular-expressions/ - http://regexcheatsheet.com/
 
 ## Language Agnostic
 
@@ -24,6 +24,8 @@
 
 ## Java & Spring
 
+* Starter https://start.spring.io/ - Giant Doc http://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/
+* Spring boot Homepage http://projects.spring.io/spring-boot/
 * Java doesn't suck, you're just using it wrong http://www.jamesward.com/2014/12/03/java-doesnt-suck-youre-just-using-it-wrong
 * Opinionated Guede to Modern Java http://blog.paralleluniverse.co/2014/05/01/modern-java/
 * Netflix RxJava http://techblog.netflix.com/2013/02/rxjava-netflix-api.html
