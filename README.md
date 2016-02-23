@@ -34,6 +34,7 @@
 
 ## Javascript, CSS, JS Libraries
 
+* You Don't know JS https://github.com/getify/You-Dont-Know-JS/blob/master/README.md
 * Javascript Design Patterns https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 * Angular https://angularjs.org/ Material Design https://material.angularjs.org/latest/
 * React https://facebook.github.io/react/ Material Design http://www.material-ui.com/
@@ -47,6 +48,9 @@
 * Mozilla Javascript Tutorial https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
 * Modern Javascript Development http://www.codethinked.com/preparing-yourself-for-modern-javascript-development
 * Webkit Inspector http://jtaby.com/blog/2012/04/23/modern-web-development-part-1
+* Mastering The Developer Tools Console http://blog.teamtreehouse.com/mastering-developer-tools-console
+
+
 
 ## Other Languages
 
@@ -71,6 +75,8 @@
 
 ## Misc
 
+* Music for coding (HN Thread) https://news.ycombinator.com/item?id=11146712
+* Lambda the Ultimate http://lambda-the-ultimate.org/
 * Regex the hard way http://regex.learncodethehardway.org/book/
 * Disposable Email Addresses https://news.ycombinator.com/item?id=4967831
 * Regex Generator http://regex.inginf.units.it/
@@ -89,8 +95,11 @@
 * Another Sublime Cheat Sheet https://forum.sublimetext.com/t/my-sublime-text-windows-cheat-sheet/8411
 * Chrome dns chrome://net-internals/#dns
 * Chrome Application Cache chrome://appcache-internals/
+* How to Safley Store Passwords in 2016 https://paragonie.com/blog/2016/02/how-safely-store-password-in-2016
 
 ## Culture
 
 * Larman's Laws of Organizational Behavoir http://www.craiglarman.com/wiki/index.php?title=Larman%27s_Laws_of_Organizational_Behavior
 * Rands - The Builder's High http://randsinrepose.com/archives/the-builders-high/
+* Cold Turkey (focus) http://getcoldturkey.com/
+* Awesome Remote Job Resources https://github.com/lukasz-madon/awesome-remote-job
