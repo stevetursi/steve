@@ -73,15 +73,18 @@
 * Deploy to Heroku using windows https://devcenter.heroku.com/articles/getting-started-with-jruby#introduction
 * Ruby the Hard Way http://learnrubythehardway.org/book/
 
-## Other Languages
+## Python
 
-* Closure Compiler http://closure-compiler.appspot.com/home
 * Google Python Lessons https://developers.google.com/edu/python/
 * Python the Hard Way http://learnpythonthehardway.org/
 * Python execution visualization http://www.pythontutor.com/visualize.html#mode=edit
 * LearnPython.org http://www.learnpython.org/
-* R Tutorials http://www.twotorials.com/
 * Hitchhiker's Guide to Python http://late.am/post/2011/12/29/hitchhikers-guide-to-python.html
+
+## Other Languages
+
+* Closure Compiler http://closure-compiler.appspot.com/home
+* R Tutorials http://www.twotorials.com/
 
 ## Linux, Networking, CLI
 
