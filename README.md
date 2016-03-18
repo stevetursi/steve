@@ -60,8 +60,10 @@
 ## Go
 
 * Go https://golang.org/
-* Go By Example https://gobyexample.com/ HN Comments https://news.ycombinator.com/item?id=11223096
+* Spec https://golang.org/ref/spec
+* How to write go code https://golang.org/doc/code.html
 * A Tour of Go http://tour.golang.org/
+* Go By Example https://gobyexample.com/ HN Comments https://news.ycombinator.com/item?id=11223096
 * Effective Go https://golang.org/doc/effective_go.html
 
 ## Ruby
