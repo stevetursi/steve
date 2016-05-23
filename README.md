@@ -56,6 +56,8 @@
 * React.js Fundamentals http://courses.reactjsprogram.com/courses/reactjsfundamentals
 * React for people who know just enough jquery to get by http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/
 * React Material Design http://www.material-ui.com/#/
+* CSS Coding Techniques https://hacks.mozilla.org/2016/05/css-coding-techniques/
+* Trello CSS Style Guide https://github.com/trello/trellisheets/blob/master/styleguide.md
 
 ## Go
 
