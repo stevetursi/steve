@@ -1,7 +1,22 @@
 # Steve's links and notes and such
 
+## Collections of resources
+* How to Keep Up with UI https://uptodate.frontendrescue.org/
+* Paul Irish's Frontend feeds to follow http://www.paulirish.com/2011/web-browser-frontend-and-standards-feeds-to-follow/
+
+## News
+* Web Platform Daily https://webplatformdaily.org/
+* FiveJS https://fivejs.codeschool.com/
+
+## Keep an Eye on
+* Martin Fowler on Serverless Architecture http://martinfowler.com/articles/serverless.html
+* Habitat https://www.habitat.sh/
+* Apex (Serverless Framework) https://github.com/apex/apex
+
 ## Cheat Sheets
 
+* VIM https://cdn.shopify.com/s/files/1/0165/4168/files/preview.png
+* More VIM http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html
 * Java 8 Streams http://paniov.blogspot.com/2016/01/java-java-8-streams-cheat-sheet.html
 * IntelliJ Keyboard Shortcuts https://www.jetbrains.com/idea/help/keyboard-shortcuts-you-cannot-miss.html
 * Hibernate Mapping http://ndpsoftware.com/HibernateMappingCheatSheet.html
@@ -16,7 +31,7 @@
 * Repl.it - programming environment in browser https://repl.it/languages
 * Codecademny prog environment in browser Ruby/Python/Javascript http://labs.codecademy.com/#
 * Ask HN Archive http://remembersaurus.com/askhn.html
-* Unit? Integration? Fucntional? Wha? http://defragdev.com/blog/?p=611
+* Unit? Integration? Fucntional? Wha? http://defragn qdev.com/blog/?p=611
 * Securing REST apis https://stormpath.com/blog/secure-your-rest-api-right-way/
 * Searchable Documentation Database http://devdocs.io/
 * Free Programming Books https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md
@@ -39,9 +54,10 @@
 ## Javascript, CSS, JS Libraries
 
 * You Don't know JS https://github.com/getify/You-Dont-Know-JS/blob/master/README.md
+* Eloquent Javascript http://eloquentjavascript.net/
+* HTML5 Rocks http://www.html5rocks.com/en/
 * Javascript Design Patterns https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 * Angular https://angularjs.org/ Material Design https://material.angularjs.org/latest/
-* React https://facebook.github.io/react/ Material Design http://www.material-ui.com/
 * Bootstrap http://getbootstrap.com/
 * MomentJS http://momentjs.com/docs/#/displaying/
 * D3 https://d3js.org/
@@ -53,11 +69,20 @@
 * Modern Javascript Development http://www.codethinked.com/preparing-yourself-for-modern-javascript-development
 * Webkit Inspector http://jtaby.com/blog/2012/04/23/modern-web-development-part-1
 * Mastering The Developer Tools Console http://blog.teamtreehouse.com/mastering-developer-tools-console
+* CSS Coding Techniques https://hacks.mozilla.org/2016/05/css-coding-techniques/
+* Trello CSS Style Guide https://github.com/trello/trellisheets/blob/master/styleguide.md
+
+## React Specific
+* React https://facebook.github.io/react/ Material Design http://www.material-ui.com/
 * React.js Fundamentals http://courses.reactjsprogram.com/courses/reactjsfundamentals
 * React for people who know just enough jquery to get by http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/
 * React Material Design http://www.material-ui.com/#/
-* CSS Coding Techniques https://hacks.mozilla.org/2016/05/css-coding-techniques/
-* Trello CSS Style Guide https://github.com/trello/trellisheets/blob/master/styleguide.md
+* React Tutorial - Yelp Clone https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/
+
+## UI Testing Specific
+
+* Jasmine Tutorial http://jasmine.github.io/2.4/introduction.html
+* Jasmine-Ajax https://github.com/jasmine/jasmine-ajax
 
 ## Go
 
@@ -92,6 +117,8 @@
 
 ## Linux, Networking, CLI
 
+* How and Why to Log your entire BASH history https://spin.atomicobject.com/2016/05/28/log-bash-history/
+* Linux Journey https://linuxjourney.com/lesson/linux-history
 * Learn Enough Command Line to be Dangerous https://www.learnenough.com/command-line-tutorial
 * VirtualBox Networking Tutorial https://forums.virtualbox.org/viewtopic.php?f=1&t=42385
 * Attempts to Explain Cryptic Shell Commands http://explainshell.com/
