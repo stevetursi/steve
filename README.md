@@ -55,6 +55,7 @@
 
 * You Don't know JS https://github.com/getify/You-Dont-Know-JS/blob/master/README.md
 * Eloquent Javascript http://eloquentjavascript.net/
+* Async and Await (Observables and Promises) https://zeit.co/blog/async-and-await
 * HTML5 Rocks http://www.html5rocks.com/en/
 * Javascript Design Patterns https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 * Angular https://angularjs.org/ Material Design https://material.angularjs.org/latest/
