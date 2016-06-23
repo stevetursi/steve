@@ -10,7 +10,6 @@
 
 ## Keep an Eye on
 * Martin Fowler on Serverless Architecture http://martinfowler.com/articles/serverless.html
-* Habitat https://www.habitat.sh/
 * Apex (Serverless Framework) https://github.com/apex/apex
 
 ## Cheat Sheets
@@ -25,6 +24,16 @@
 * SublimeText Cheat Sheet http://www.cheatography.com/njovin/cheat-sheets/sublime-text-2-windows/
 * Another Sublime Cheat Sheet https://forum.sublimetext.com/t/my-sublime-text-windows-cheat-sheet/8411
 * Markdown Cheatsheet https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+## Containers, Orchestration, PaaS
+
+* Docker https://www.docker.com/
+* My Dockerhub https://hub.docker.com/r/stevetursi
+* Habitat https://www.habitat.sh/
+* Kubernetes http://kubernetes.io/
+* PCF Dev (Formerly lattice?) http://pivotal.io/pcf-dev
+* Learn Docker By Buildign a Microservice http://www.dwmkerr.com/learn-docker-by-building-a-microservice/
+* Children's Illustrated Guide to Kubernetes https://deis.com/blog/2016/kubernetes-illustrated-guide/
 
 ## Language Agnostic
 
