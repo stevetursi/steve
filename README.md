@@ -83,6 +83,7 @@
 
 * Jasmine Tutorial http://jasmine.github.io/2.4/introduction.html
 * Jasmine-Ajax https://github.com/jasmine/jasmine-ajax
+* Karma https://karma-runner.github.io/0.13/index.html
 
 ## Go
 
