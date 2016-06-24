@@ -39,6 +39,10 @@
 
 * Repl.it - programming environment in browser https://repl.it/languages
 * Codecademny prog environment in browser Ruby/Python/Javascript http://labs.codecademy.com/#
+* Sorting Algorithms Visualizer https://www.toptal.com/developers/sorting-algorithms/
+* Another Sorting Algorithms Visualizer http://greggman.github.io/doodles/sort.html
+* Data Structure Visualizations http://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+* Khan Acadamy Algorirhms https://www.khanacademy.org/computing/computer-science/algorithms
 * Ask HN Archive http://remembersaurus.com/askhn.html
 * Unit? Integration? Fucntional? Wha? http://defragn qdev.com/blog/?p=611
 * Securing REST apis https://stormpath.com/blog/secure-your-rest-api-right-way/
@@ -85,9 +89,11 @@
 ## React Specific
 * React https://facebook.github.io/react/ Material Design http://www.material-ui.com/
 * React.js Fundamentals http://courses.reactjsprogram.com/courses/reactjsfundamentals
+* Thinking in React https://facebook.github.io/react/docs/thinking-in-react.html
 * React for people who know just enough jquery to get by http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/
 * React Material Design http://www.material-ui.com/#/
 * React Tutorial - Yelp Clone https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/
+* Babel Sublime (for proper jsx syntax highlighting) https://github.com/babel/babel-sublime
 
 ## UI Testing Specific
 
