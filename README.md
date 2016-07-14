@@ -1,8 +1,11 @@
 # Steve's links and notes and such
 
 ## Collections of resources
+* "Curated List of Awesome Lists" https://github.com/sindresorhus/awesome/blob/master/readme.md
+* Awesome AWS List https://github.com/donnemartin/awesome-aws/blob/master/README.md
 * How to Keep Up with UI https://uptodate.frontendrescue.org/
 * Paul Irish's Frontend feeds to follow http://www.paulirish.com/2011/web-browser-frontend-and-standards-feeds-to-follow/
+* Public APIs https://github.com/toddmotto/public-apis
 
 ## News
 * Web Platform Daily https://webplatformdaily.org/
@@ -11,6 +14,10 @@
 ## Keep an Eye on
 * Martin Fowler on Serverless Architecture http://martinfowler.com/articles/serverless.html
 * Apex (Serverless Framework) https://github.com/apex/apex
+* Machine Learning
+-* Caffe http://caffe.berkeleyvision.org/
+-* TensorFlow https://www.tensorflow.org/
+-* Amazon https://aws.amazon.com/machine-learning/
 
 ## Cheat Sheets
 
@@ -24,6 +31,7 @@
 * SublimeText Cheat Sheet http://www.cheatography.com/njovin/cheat-sheets/sublime-text-2-windows/
 * Another Sublime Cheat Sheet https://forum.sublimetext.com/t/my-sublime-text-windows-cheat-sheet/8411
 * Markdown Cheatsheet https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+* Emmet http://docs.emmet.io/cheat-sheet/
 
 ## Containers, Orchestration, PaaS
 
@@ -85,6 +93,8 @@
 * Mastering The Developer Tools Console http://blog.teamtreehouse.com/mastering-developer-tools-console
 * CSS Coding Techniques https://hacks.mozilla.org/2016/05/css-coding-techniques/
 * Trello CSS Style Guide https://github.com/trello/trellisheets/blob/master/styleguide.md
+* Promises in Wicked Detail http://dailyjs.com/2014/02/20/promises-in-detail/
+* PromisJS https://www.promisejs.org/
 
 ## React Specific
 * React https://facebook.github.io/react/ Material Design http://www.material-ui.com/
@@ -147,6 +157,7 @@
 
 ## Misc
 
+* Professional Software Development book http://mixmastamyk.bitbucket.org/pro_soft_dev/intro.html
 * Heroku Reference https://devcenter.heroku.com/categories/reference
 * Music for coding (HN Thread) https://news.ycombinator.com/item?id=11146712
 * Lambda the Ultimate http://lambda-the-ultimate.org/
@@ -172,3 +183,9 @@
 * Rands - The Builder's High http://randsinrepose.com/archives/the-builders-high/
 * Cold Turkey (focus) http://getcoldturkey.com/
 * Awesome Remote Job Resources https://github.com/lukasz-madon/awesome-remote-job
+* Key DevOps Patterns and Practices http://blogs.gartner.com/cameron_haight/files/2014/10/devopspatternsandpractices.png
+
+## Neat random stuff
+* Chasing Cats http://myplace.frontier.com/~r.bond/cats/cats.htm
+* Arduino Tone Recognition (google search) https://www.google.com/search?q=arduino+tone+recognition
+
